@@ -1,2 +1,2 @@
 # particle_swarm_optimization
-Introductory code for Particle Swam Optimization (PSO) Algorithm
+Introductory code for Particle Swarm Optimization (PSO) Algorithm and a streamlit demonstration. 
